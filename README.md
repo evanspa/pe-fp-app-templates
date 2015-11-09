@@ -1,2 +1,2 @@
-# pe-fp-app-templates
+# pe-gasjot-app-templates
 Email and web page templates used by Gas Jot
